@@ -1,6 +1,10 @@
 # Frontend Mentor - Advice generator app
 
-![Design preview for the Advice generator app coding challenge][![HvkOeXj.md.jpg](https://iili.io/HvkOeXj.md.jpg)](https://freeimage.host/i/HvkOeXj)
+![Design preview for the Advice generator app coding challenge]
+
+
+[![HvkOeXj.md.jpg](https://iili.io/HvkOeXj.md.jpg)](https://freeimage.host/i/HvkOeXj)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
