@@ -3,7 +3,7 @@
 ![Design preview for the Advice generator app coding challenge]
 
 
-[![HvkOeXj.md.jpg](https://iili.io/HvkOeXj.md.jpg)](https://freeimage.host/i/HvkOeXj)
+[![HvkOeXj.md.jpg](https://iili.io/HvkOeXj.md.jpg)](https://silver-fenglisu-c65634.netlify.app)
 
 ## Welcome! 👋
 
